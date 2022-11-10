@@ -5,6 +5,7 @@
 - 📫 My E-mail : nisaldaksith1999@gmail.com
 
 Check out my latest work : https://nisaldaksith-horse-race-speed-predictor-webapp-app-uru4vx.streamlitapp.com/
+                           https://nisaldaksith-diabetes-checker-svm-webapp-app-7ygsd5.streamlit.app/
 
 <!---
 NisalDaksith/NisalDaksith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

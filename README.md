@@ -7,6 +7,7 @@
 Check out my latest work,
 
 Horse Race Predictor: https://nisaldaksith-horse-race-speed-predictor-webapp-app-uru4vx.streamlitapp.com/
+
 Diabetes Checker: https://nisaldaksith-diabetes-checker-svm-webapp-app-7ygsd5.streamlit.app/  
 
 <!---

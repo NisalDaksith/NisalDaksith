@@ -4,8 +4,9 @@
 - 💞️ Currently looking For an Internship in a field related to Machine Learning or Cloud Computing
 - 📫 My E-mail : nisaldaksith1999@gmail.com
 
-Check out my latest work : https://nisaldaksith-horse-race-speed-predictor-webapp-app-uru4vx.streamlitapp.com/
-                           https://nisaldaksith-diabetes-checker-svm-webapp-app-7ygsd5.streamlit.app/
+Check out my latest work,
+Horse Race Predictor: https://nisaldaksith-horse-race-speed-predictor-webapp-app-uru4vx.streamlitapp.com/
+Diabetes Checker: https://nisaldaksith-diabetes-checker-svm-webapp-app-7ygsd5.streamlit.app/  
 
 <!---
 NisalDaksith/NisalDaksith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

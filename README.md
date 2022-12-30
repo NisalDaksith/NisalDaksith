@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NisalDaksith
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Python, ML and Cloud Computing basics
-- 💞️ Currently looking For an Internship in a field related to Machine Learning or Cloud Computing
+- 🌱 I’m currently studying Python, ML and Cloud Computing basics
+- 💞️ Currently looking For an Internship in a field related to Machine Learning or Devops
 - 📫 My E-mail : nisaldaksith1999@gmail.com
 
 Check out my latest work,
